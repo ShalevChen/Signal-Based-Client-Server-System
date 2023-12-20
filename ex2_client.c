@@ -1,5 +1,4 @@
-//יובל חגבי - 207797424
-//חן שלו- 313584906
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
